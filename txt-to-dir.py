@@ -9,7 +9,7 @@ from PyQt6.QtGui import QFont, QIcon
 class ChatbotDirectoryCreator(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Chatbot Directory Creator")
+        self.setWindowTitle("Text To Directory Creator")
         self.setMinimumSize(500, 600)
         self.resize(500, 600)
         
@@ -66,7 +66,7 @@ class ChatbotDirectoryCreator(QMainWindow):
         layout.setContentsMargins(30, 30, 30, 30)
         layout.setSpacing(15)
 
-        title = QLabel("Chatbot Directory Creator")
+        title = QLabel("Text To Directory Creator")
         title.setObjectName("title")
         layout.addWidget(title)
 
