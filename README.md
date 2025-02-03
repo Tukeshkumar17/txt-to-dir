@@ -1,7 +1,4 @@
-Here's a well-structured **README.md** for your **txt-to-dir** project:  
-
 ---
-
 # **txt-to-dir** 🗂️✨  
 **Effortlessly Convert Structured Text into Real Directories**  
 
@@ -26,16 +23,6 @@ Using **txt-to-dir** is as simple as writing an outline!
 
 ### ✏️ **Example Input:**  
 ```
-MyProject
-    src
-        main.py
-    docs
-        README.md
-    assets
-        images
-```
-### 🏗 **Generated Output:**  
-```
 MyProject/
 │── src/
 │   └── main.py
@@ -44,6 +31,16 @@ MyProject/
 └── assets/
     └── images/
 ```
+### 🏗 **Generated Output:**  
+```
+MyProject
+    src
+        main.py
+    docs
+        README.md
+    assets
+        images
+```
 
 ---
 
@@ -51,7 +48,7 @@ MyProject/
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/txt-to-dir.git
+git clone https://github.com/Tukeshkumar17/txt-to-dir.git
 cd txt-to-dir
 ```
 
