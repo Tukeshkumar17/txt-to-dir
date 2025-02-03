@@ -91,4 +91,4 @@ Contributions are welcome! If you have ideas for improvements, feel free to fork
 
 ---
 
-🌟 **[GitHub Repository](https://github.com/yourusername/txt-to-dir)** – If you find this useful, give it a star! ⭐  
+🌟 **[GitHub Repository](https://github.com/Tukeshkumar17/txt-to-dir)** – If you find this useful, give it a star! ⭐  
