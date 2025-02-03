@@ -98,7 +98,7 @@ class ChatbotDirectoryCreator(QMainWindow):
         layout.addWidget(config_label)
 
         self.config_text = QTextEdit()
-        self.config_text.setPlaceholderText("Enter your chatbot configuration here...")
+        self.config_text.setPlaceholderText("Enter your configuration here...")
         self.config_text.setMinimumHeight(200)
         layout.addWidget(self.config_text)
 
